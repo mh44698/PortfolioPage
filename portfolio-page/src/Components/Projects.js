@@ -10,10 +10,10 @@ function Projects() {
     <div className="wrapper">
   <div>
       <h3>Live examples</h3>
-      <a href="https://objective-goldwasser-ce50f3.netlify.com">
+      <a href="https://objective-goldwasser-ce50f3.netlify.com" target="popup"> 
       <p> JAVAScript REACT - Bulls vs Bears (API's Financial Data) (and this Page is built on REACT)</p>
       </a>
-      <a href="https://mh44698.github.io/firstproject.io/">
+      <a href="https://mh44698.github.io/firstproject.io/" target="popup">
       <p> JAVAScript Vanilla - Hangman (API's Random Word API Data)</p>
       </a>
       <br></br>

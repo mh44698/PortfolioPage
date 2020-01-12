@@ -9,11 +9,21 @@ function ContactInfo(){
     <div className="wrapper">
   
   <div>
-      <p> Linked Account</p>
-      <p> Personal Email Account</p>
-      <p> Phone Number</p>
-      <p> GitHub Repository address</p>
-      <p> This Portfolio Page address</p>
+      <a href="https://www.linkedin.com/in/mark-holmes-04452834/" target="popup"><img src="/Linkedin.png" alt="Linkedin"></img>
+      <p> linkedin</p>
+      </a>
+ 
+    
+      <a href="mailto:MrkHlms1@gmail.com?Subject=Resume%20Page" target="_top"><img src="/Gmail.jpeg" alt="Email Me"></img>
+      <p> MrkHlms1@gmail.com</p>
+      </a>
+
+      <img src="/Cellphone.jpeg" alt="Call/Text Me"></img>
+      <p>Call/Text: 563-210-0216</p>
+   
+      <a href="https://github.com/mh44698/" target="popup"><img src="/github.png" alt="GitHub"></img>
+      <p>My git hub repo</p>
+      </a>
   </div>
 </div>
   );

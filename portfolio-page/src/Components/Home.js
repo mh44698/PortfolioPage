@@ -8,13 +8,15 @@ function Home(){
 return (
     <div className="standard-page">
         <div className="standard-left">
-            <p>Standard Left test</p>
+            <p></p>
         </div>
         <div className="standard-body">
-        <h1>Body Online Resume.js</h1>
+        <img src={"/mymug.jpg"} alt="SAP/HANA" />
+        <h1>My Name is Mark and I am a Software Engineer.</h1>
         </div>
         <div className="standard-aside">
-            <p>aside test</p>
+            <p>I have over 15 years in Information Technolongy</p>
+            <p>I have spent the majority of my career in the corprate envinroment, but have also done freelance work as well.</p>
         </div>
     </div>
   )

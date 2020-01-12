@@ -28,17 +28,17 @@ function Nav() {
        </ul>
        <div className="imgs-for-reference">
            <hr></hr>
-       <img src={"/HTML5.png"} alt="Logo" />
-       <img src={"/css.png"} alt="Logo" />
-       <img src={"/react.png"} alt="Logo" />
-       <img src={"/VanillaJS.jpeg"} alt="Logo" />
-       <img src={"/Node.png"} alt="Logo" />
-       <img src={"/Python.jpeg"} alt="Logo" />
-       <img src={"/Rcran.jpeg"} alt="Logo" /> 
-       <img src={"/MongoDB.png"} alt="Logo" />
-       <img src={"/github.jpeg"} alt="Logo" />
-       <img src={"/Hana.jpeg"} alt="Logo" />
-       <img src={"/SQLlight.jpeg"} alt="Logo" />
+       <img src={"/HTML5.png"} alt="HTML5" />
+       <img src={"/css.png"} alt="CSS" />
+       <img src={"/react.png"} alt="React" />
+       <img src={"/VanillaJS.jpeg"} alt="Vanilla JavaScript" />
+       <img src={"/Node.png"} alt="Node.js" />
+       <img src={"/Python.jpeg"} alt="Python" />
+       <img src={"/Rcran.jpeg"} alt="RStudio" /> 
+       <img src={"/MongoDB.png"} alt="MongoDB" />
+       <img src={"/github.jpeg"} alt="Github" />
+       <img src={"/Hana.jpeg"} alt="SAP/HANA" />
+       <img src={"/SQLlight.jpeg"} alt="SQLLight" />
        {/* <img src={logo} alt="Logo" /> */}
        {/* <img src={logo} alt="Logo" /> */}
        </div>
