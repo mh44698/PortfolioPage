@@ -2,14 +2,14 @@
   text-align: center;
 }
 
-/* .nav-links {
+ .nav-links {
   width: 40%;
-  display: flex;
   justify-content: space-around;
   align-items: center;
   list-style: none;
 }
 
+/*
 nav {
   display: flex;
   justify-content: space-around;
@@ -112,4 +112,18 @@ nav, section {
 
 .resume-style{
   text-align: left;
+}
+
+.python-code {
+  text-align: left;
+}
+
+pre{
+  background-color: tan;
+  color: black;
+}
+
+img{
+  max-width: 200px;
+  max-height: 95px;
 }
