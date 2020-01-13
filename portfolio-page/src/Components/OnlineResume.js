@@ -38,17 +38,16 @@ return (
 </ul>
 <p>&nbsp;</p>
 <tr>
-<td width="34%">
+<td width="50%">
 <p><strong>Senior Forecast Analyst</strong></p>
 </td>
-<td width="41%">
+<td width="25%">
 <p><strong>Sep 2016</strong></p>
 </td>
-<td width="24%">
+<td width="25%">
 <p><strong>&nbsp; Aug 2010</strong></p>
 </td>
 </tr>
-<p><strong>Data Wrangler / Senior Forecaster</strong></p>
 <ul>
 <li>Forecasted 2.7 billion dollars of Deere Equipment in South America</li>
 <li>Back tested and implemented existing and new models</li>
@@ -59,13 +58,13 @@ return (
 <li>Rewrote several reports to provide better representations of the stored data in the OFP applications.</li>
 <li>Provided as point of contact for data questions concerning corrections.</li>
 </ul>
-<table width="46%">
+<table width="50%">
 <tbody>
 <tr>
-<td width="43%">
+<td width="25%">
 <p><strong>Infrastructure Analyst</strong></p>
 </td>
-<td width="28%">
+<td width="25%">
 <p><strong>Feb 2007</strong></p>
 </td>
 <td width="28%">
